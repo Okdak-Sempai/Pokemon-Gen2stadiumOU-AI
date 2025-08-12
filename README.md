@@ -3,7 +3,6 @@
 **Projet IA Pokémon Stadium 2 — Format Smogon [Gen 2] Stadium OU**
 
 > IA Pokémon multistratégie pour le format Gen 2 Stadium OU, utilisant poke-env, une API Smogon locale et un moteur de simulation/décision exhaustif.  
-> _Inspiré par la philosophie FBD/Rapport et optimisé pour l’analyse de stratégies IA, l’expérimentation et la compétition._
 
 ---
 
@@ -163,3 +162,4 @@ _“Ce projet vise à offrir une base solide pour la recherche, l’expérimenta
 ---
 
 > Pour toute question, suggestion ou rapport de bug, ouvrez une issue ou contactez le mainteneur.
+
