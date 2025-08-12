@@ -157,9 +157,10 @@ Mewtwo Intelligence/
 
 ---
 
-_“Ce projet vise à offrir une base solide pour la recherche, l’expérimentation et la compétition en IA Pokémon Gen 2, dans l’esprit FBD/Rapport : reproductible, transparent et modulaire.”_
+_“Ce projet vise à offrir une base solide pour la recherche, l’expérimentation et la compétition en IA Pokémon Gen 2.”_
 
 ---
 
 > Pour toute question, suggestion ou rapport de bug, ouvrez une issue ou contactez le mainteneur.
+
 
