@@ -213,8 +213,9 @@ python Mewtwo.py Snell_Lv2 Snell_Lv2
 
 ## Licence
 
-Ce projet est diffusé sous licence MIT, comme Pokémon Showdown. Voir [LICENSE.md](LICENSE.md) pour plus d’informations.
+Ce projet est diffusé sous licence CC BY-NC-SA 4.0. Voir [LICENSE.md](LICENSE.md) pour plus d’informations.
 
 ---
 
 **Pour toute question, suggestion ou rapport de bug, ouvrez une issue sur GitHub ou contactez le mainteneur.**
+
