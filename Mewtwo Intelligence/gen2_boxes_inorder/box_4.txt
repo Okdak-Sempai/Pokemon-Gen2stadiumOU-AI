@@ -1,0 +1,240 @@
+Tentacool
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- blizzard
+- screech
+- sludgebomb
+- surf
+
+Tentacruel
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- barrier
+- bubblebeam
+- sludgebomb
+- wrap
+
+Geodude
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- defensecurl
+- explosion
+- earthquake
+- rollout
+
+Graveler
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- earthquake
+- rollout
+- sandstorm
+- selfdestruct
+
+Golem
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- harden
+- magnitude
+- rocksmash
+- rockthrow
+
+Ponyta
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- fireblast
+- headbutt
+- irontail
+- sunnyday
+
+Rapidash
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- attract
+- firespin
+- stomp
+- toxic
+
+Slowpoke
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- amnesia
+- earthquake
+- psychic
+- surf
+
+Slowbro
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- confusion
+- disable
+- growl
+- surf
+
+Magnemite
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- frustration
+- supersonic
+- thunder
+- thunderwave
+
+Magneton
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- flash
+- swift
+- thunder
+- thunderwave
+
+Farfetchd
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- fly
+- slash
+- steelwing
+- swordsdance
+
+Doduo
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- doubleteam
+- drillpeck
+- steelwing
+- triattack
+
+Dodrio
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- fly
+- growl
+- pursuit
+- triattack
+
+Seel
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- headbutt
+- icebeam
+- safeguard
+- surf
+
+Dewgong
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- aurorabeam
+- rest
+- sleeptalk
+- waterfall
+
+Grimer
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- frustration
+- screech
+- sludgebomb
+- toxic
+
+Muk
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- acidarmor
+- disable
+- dynamicpunch
+- sludge
+
+Shellder
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- icebeam
+- supersonic
+- surf
+- swift
+
+Cloyster
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- aurorabeam
+- clamp
+- spikecannon
+- withdraw
+
+Gastly
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- confuseray
+- curse
+- psychic
+- shadowball
+
+Haunter
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- destinybond
+- gigadrain
+- shadowball
+- spite
+
+Gengar
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- hypnosis
+- nightmare
+- nightshade
+- thief
+
+Onix
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- earthquake
+- rockthrow
+- sandstorm
+- strength
+

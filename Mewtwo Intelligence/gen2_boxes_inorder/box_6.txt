@@ -1,0 +1,240 @@
+Seadra
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dragonbreath
+- smokescreen
+- surf
+- swift
+
+Kingdra
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- frustration
+- leer
+- twister
+- waterfall
+
+Goldeen
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- hornattack
+- horndrill
+- supersonic
+- surf
+
+Seaking
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- flail
+- horndrill
+- supersonic
+- waterfall
+
+Staryu
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- hydropump
+- psychic
+- recover
+- thunder
+
+Starmie
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- harden
+- rapidspin
+- waterfall
+- zapcannon
+
+Mrmime
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- barrier
+- batonpass
+- psybeam
+- substitute
+
+Scyther
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- focusenergy
+- pursuit
+- swift
+- wingattack
+
+Scizor
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- agility
+- cut
+- leer
+- metalclaw
+
+Smoochum
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- blizzard
+- psychic
+- sing
+- sweetkiss
+
+Jynx
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- icepunch
+- confusion
+- lick
+- meanlook
+
+Elekid
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- headbutt
+- lightscreen
+- screech
+- thunderbolt
+
+Electabuzz
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- leer
+- lightscreen
+- swift
+- thunderpunch
+
+Magby
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- confuseray
+- flamethrower
+- irontail
+- sunnyday
+
+Magmar
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- confuseray
+- firepunch
+- smog
+- smokescreen
+
+Pinsir
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- focusenergy
+- furycutter
+- visegrip
+- submission
+
+Tauros
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- pursuit
+- rocksmash
+- scaryface
+- takedown
+
+Gyarados
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dragonrage
+- leer
+- twister
+- waterfall
+
+Lapras
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- icywind
+- mist
+- perishsong
+- whirlpool
+
+Eevee
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- irontail
+- shadowball
+- sandattack
+- takedown
+
+Vaporeon
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- acidarmor
+- sandattack
+- quickattack
+- waterfall
+
+Jolteon
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- doublekick
+- sandattack
+- pinmissile
+- zapcannon
+
+Flareon
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- fireblast
+- quickattack
+- smog
+- tailwhip
+
+Espeon
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- psybeam
+- psychup
+- swift
+- tailwhip
+

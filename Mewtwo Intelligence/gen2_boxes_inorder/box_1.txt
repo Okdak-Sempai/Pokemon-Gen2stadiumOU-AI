@@ -1,0 +1,230 @@
+Bulbasaur
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- growth
+- headbutt
+- razorleaf
+- toxic
+
+Ivysaur
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- furycutter
+- leechseed
+- solarbeam
+- sunnyday
+
+Venusaur
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- gigadrain
+- growl
+- poisonpowder
+- tackle
+
+Charmander
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dragonbreath
+- flamethrower
+- slash
+- sunnyday
+
+Charmeleon
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dig
+- fireblast
+- smokescreen
+- strength
+
+Charizard
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- firepunch
+- growl
+- scaryface
+- wingattack
+
+Squirtle
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bite
+- blizzard
+- raindance
+- surf
+
+Wartortle
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dig
+- icywind
+- rapidspin
+- waterfall
+
+Blastoise
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- hydropump
+- rapidspin
+- withdraw
+- mudslap
+
+Butterfree
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- gust
+- hyperbeam
+- psychic
+- stunspore
+
+Beedrill
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- focusenergy
+- pursuit
+- sludgebomb
+- twineedle
+
+Pidgey
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- sandattack
+- fly
+- return
+- steelwing
+
+Pidgeotto
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- fly
+- frustration
+- mirrormove
+- steelwing
+
+Pidgeot
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- fly
+- steelwing
+- swift
+- whirlwind
+
+Rattata
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- focusenergy
+- headbutt
+- shadowball
+- superfang
+
+Raticate
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- hyperfang
+- pursuit
+- scaryface
+- superfang
+
+Spearow
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- drillpeck
+- frustration
+- mirrormove
+- steelwing
+
+Fearow
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- drillpeck
+- hyperbeam
+- pursuit
+- toxic
+
+Ekans
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- earthquake
+- glare
+- sludgebomb
+- strength
+
+Arbok
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bite
+- dig
+- glare
+- sludgebomb
+
+Pichu
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- attract
+- headbutt
+- sweetkiss
+- thunder
+
+Pikachu
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- irontail
+- headbutt
+- thunderbolt
+- thunderwave
+
+Raichu
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- quickattack
+- tailwhip
+- thunder
+- thunderwave
+

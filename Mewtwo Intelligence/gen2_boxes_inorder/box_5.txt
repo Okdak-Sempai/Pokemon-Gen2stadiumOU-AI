@@ -1,0 +1,240 @@
+Drowzee
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dreameater
+- headbutt
+- hypnosis
+- psychic
+
+Hypno
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- confusion
+- dreameater
+- hypnosis
+- psychup
+
+Krabby
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- blizzard
+- crabhammer
+- guillotine
+- strength
+
+Kingler
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- crabhammer
+- guillotine
+- visegrip
+- leer
+
+Voltorb
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- mirrorcoat
+- raindance
+- selfdestruct
+- thunder
+
+Electrode
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- flash
+- sonicboom
+- swift
+- thunder
+
+Exeggcute
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- gigadrain
+- leechseed
+- psychic
+- stunspore
+
+Exeggutor
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- sleeppowder
+- confusion
+- eggbomb
+- nightmare
+
+Cubone
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bonemerang
+- focusenergy
+- headbutt
+- icywind
+
+Marowak
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bonerush
+- focusenergy
+- thrash
+- thunderpunch
+
+Tyrogue
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- attract
+- doubleteam
+- rocksmash
+- strength
+
+Hitmonlee
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- highjumpkick
+- meditate
+- megakick
+- reversal
+
+Hitmonchan
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- counter
+- icepunch
+- machpunch
+- strength
+
+Hitmontop
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- counter
+- focusenergy
+- strength
+- triplekick
+
+Lickitung
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- hyperbeam
+- shadowball
+- supersonic
+- surf
+
+Koffing
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- fireblast
+- sludgebomb
+- explosion
+- toxic
+
+Weezing
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- haze
+- selfdestruct
+- sludge
+- zapcannon
+
+Rhyhorn
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- earthquake
+- irontail
+- rollout
+- scaryface
+
+Rhydon
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dig
+- scaryface
+- stomp
+- zapcannon
+
+Chansey
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- blizzard
+- dreameater
+- eggbomb
+- sing
+
+Blissey
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- defensecurl
+- eggbomb
+- flash
+- thunder
+
+Tangela
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- gigadrain
+- growth
+- sleeppowder
+- thief
+
+Kangaskhan
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bite
+- dizzypunch
+- leer
+- surf
+
+Horsea
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- blizzard
+- hydropump
+- raindance
+- smokescreen
+

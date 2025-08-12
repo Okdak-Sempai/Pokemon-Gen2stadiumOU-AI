@@ -1,0 +1,240 @@
+Sneasel
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- beatup
+- icepunch
+- screech
+- slash
+
+Teddiursa
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- attract
+- earthquake
+- feintattack
+- slash
+
+Ursaring
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dig
+- firepunch
+- rest
+- snore
+
+Slugma
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- amnesia
+- bodyslam
+- flamethrower
+- rockslide
+
+Magcargo
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- amnesia
+- fireblast
+- rockslide
+- smog
+
+Swinub
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- blizzard
+- earthquake
+- mist
+- strength
+
+Piloswine
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- earthquake
+- furyattack
+- icywind
+- mist
+
+Corsola
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- ancientpower
+- attract
+- mirrorcoat
+- surf
+
+Remoraid
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- hyperbeam
+- icebeam
+- lockon
+- surf
+
+Octillery
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- focusenergy
+- lockon
+- hyperbeam
+- octazooka
+
+Delibird
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- blizzard
+- doubleteam
+- fly
+- present
+
+Mantine
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- supersonic
+- takedown
+- waterfall
+- wingattack
+
+Skarmory
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- agility
+- fly
+- furyattack
+- steelwing
+
+Houndour
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- crunch
+- flamethrower
+- sludgebomb
+- sunnyday
+
+Houndoom
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bite
+- ember
+- roar
+- swift
+
+Phanpy
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- doubleteam
+- earthquake
+- doubleedge
+- swagger
+
+Donphan
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- earthquake
+- growl
+- rapidspin
+- sandstorm
+
+Stantler
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- dreameater
+- hypnosis
+- mudslap
+- stomp
+
+Smeargle
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bodyslam
+- machpunch
+- flamethrower
+- confuseray
+
+Miltank
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bide
+- healbell
+- icepunch
+- stomp
+
+Raikou
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- flash
+- quickattack
+- roar
+- spark
+
+Entei
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- fireblast
+- leer
+- roar
+- rocksmash
+
+Suicune
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- bubblebeam
+- gust
+- mist
+- roar
+
+Larvitar
+Ability: No Ability
+Level: 100
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- earthquake
+- hyperbeam
+- rockslide
+- swagger
+
